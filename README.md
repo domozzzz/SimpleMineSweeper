@@ -1,3 +1,4 @@
-![image](https://github.com/domozzzz/SimpleMineSweeper/assets/121702576/130be09a-fa53-4e6f-8aa2-b29d7f5d9b0d)
+![image](https://github.com/domozzzz/SimpleMineSweeper/assets/121702576/43db453a-838e-41ac-83c2-9e214e69ca15)
+
 
 Sweep for 3 mines in a 5x5 grid.
